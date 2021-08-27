@@ -1,0 +1,1 @@
+#define show_picture 
